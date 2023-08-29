@@ -69,6 +69,8 @@ footer a{
     }
     #head {
         font-size: 50px;
+        margin-top: 20px;
+        margin-bottom: 50px;
     }
     #title{
         font-size: 50px;
@@ -78,7 +80,7 @@ footer a{
     }
     #board {
         margin-top: 35px;
-        margin-bottom: 35px;
+        margin-bottom: 50px;
     }
     #board button{
         width: 150px;
