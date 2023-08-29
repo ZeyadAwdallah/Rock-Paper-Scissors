@@ -38,7 +38,7 @@ function playRound(playerSelection) {
     computerScore++;
     result.textContent = `${playerScore } - ${computerScore}`;
   }
-
+// Game rest
   if (computerScore === 5)
   {
    winner.textContent = "Computer Wins!";
