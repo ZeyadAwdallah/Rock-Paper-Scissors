@@ -83,9 +83,9 @@ footer a{
         margin-bottom: 50px;
     }
     #board button{
-        width: 150px;
-        height: 150px;
+        width: 130px;
+        height: 130px;
         border-radius: 25px;
-        font-size: 100px;
+        font-size: 80px;
     }
 }
